@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\bin\Debug\net6.0\deposit_calculator.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\bin\Debug\net6.0\deposit_calculator.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\bin\Debug\net6.0\deposit_calculator.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\bin\Debug\net6.0\deposit_calculator.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\bin\Debug\net6.0\deposit_calculator.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\deposit_calculator.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\deposit_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\deposit_calculator.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\deposit_calculator.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\deposit_calculator.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\deposit_calculator.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\refint\deposit_calculator.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\deposit_calculator.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\deposit_calculator.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\deposit_calculator\obj\Debug\net6.0\ref\deposit_calculator.dll

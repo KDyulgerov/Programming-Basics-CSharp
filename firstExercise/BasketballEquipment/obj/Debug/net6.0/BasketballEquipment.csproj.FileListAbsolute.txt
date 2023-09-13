@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\refint\BasketballEquipment.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\BasketballEquipment\obj\Debug\net6.0\ref\BasketballEquipment.dll

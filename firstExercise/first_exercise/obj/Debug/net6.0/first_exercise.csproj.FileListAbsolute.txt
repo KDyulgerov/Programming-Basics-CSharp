@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\bin\Debug\net6.0\first_exercise.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\bin\Debug\net6.0\first_exercise.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\bin\Debug\net6.0\first_exercise.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\bin\Debug\net6.0\first_exercise.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\bin\Debug\net6.0\first_exercise.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\first_exercise.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\first_exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\first_exercise.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\first_exercise.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\first_exercise.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\first_exercise.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\refint\first_exercise.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\first_exercise.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\first_exercise.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\first_exercise\obj\Debug\net6.0\ref\first_exercise.dll

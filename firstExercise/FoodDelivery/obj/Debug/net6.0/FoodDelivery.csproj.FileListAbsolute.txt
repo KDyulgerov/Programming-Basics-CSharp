@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll

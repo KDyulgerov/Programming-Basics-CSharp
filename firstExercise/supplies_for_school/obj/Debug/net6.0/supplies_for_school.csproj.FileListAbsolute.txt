@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\bin\Debug\net6.0\supplies_for_school.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\bin\Debug\net6.0\supplies_for_school.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\bin\Debug\net6.0\supplies_for_school.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\bin\Debug\net6.0\supplies_for_school.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\bin\Debug\net6.0\supplies_for_school.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\supplies_for_school.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\supplies_for_school.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\supplies_for_school.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\supplies_for_school.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\supplies_for_school.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\supplies_for_school.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\refint\supplies_for_school.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\supplies_for_school.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\supplies_for_school.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\supplies_for_school\obj\Debug\net6.0\ref\supplies_for_school.dll

@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\bin\Debug\net6.0\radians_to_degrees.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\bin\Debug\net6.0\radians_to_degrees.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\bin\Debug\net6.0\radians_to_degrees.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\bin\Debug\net6.0\radians_to_degrees.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\bin\Debug\net6.0\radians_to_degrees.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\radians_to_degrees.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\radians_to_degrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\radians_to_degrees.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\radians_to_degrees.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\radians_to_degrees.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\radians_to_degrees.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\refint\radians_to_degrees.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\radians_to_degrees.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\radians_to_degrees.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\radians_to_degrees\obj\Debug\net6.0\ref\radians_to_degrees.dll

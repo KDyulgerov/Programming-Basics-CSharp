@@ -1,0 +1,15 @@
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\bin\Debug\net6.0\vacation_list.exe
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\bin\Debug\net6.0\vacation_list.deps.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\bin\Debug\net6.0\vacation_list.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\bin\Debug\net6.0\vacation_list.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\bin\Debug\net6.0\vacation_list.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\vacation_list.csproj.AssemblyReference.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\vacation_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\vacation_list.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\vacation_list.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\vacation_list.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\vacation_list.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\refint\vacation_list.dll
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\vacation_list.pdb
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\vacation_list.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Fundamentals\Basics with C# Test\Projects\first_exercise\vacation_list\obj\Debug\net6.0\ref\vacation_list.dll
